@@ -2,7 +2,7 @@
 
 This task uses sample data available on the Atlas Cloud console.
 
-1. From within the Atlas Cloud console, load sample data using the `...` button in your cluster settings. Look for the "Load Sample Dataset" option in the drop-down list.
+1. Please follow the steps in [This Tutorial](https://www.mongodb.com/resources/products/platform/mongodb-atlas-tutorial)
    
 2. Using your `mongosh` shell, list your databases, select the `sample_mflix` set, then show collections within that:
 ```
