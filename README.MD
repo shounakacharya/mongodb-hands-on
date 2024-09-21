@@ -4,7 +4,7 @@ This task uses sample data available on the Atlas Cloud console.
 
 1. Please follow the steps in [This Tutorial](https://www.mongodb.com/resources/products/platform/mongodb-atlas-tutorial)
    
-2. Using your `mongosh` shell, list your databases, select the `sample_mflix` set, then show collections within that:
+2. Download [Mongo Shell](https://www.mongodb.com/try/download/shell) by selecting your operating system. This will download mongo shell, or mongosh on your machine. Please note that if your organization does not permit installation on your Windows Machine, you can download the zip, unzip and navigate to the folder using the command prompt and run mongosh.exe. Using your `mongosh` shell, list your databases, select the `sample_mflix` set, then show collections within that:
 ```
 show dbs;
 use sample_mflix;
